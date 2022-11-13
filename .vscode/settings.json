@@ -1,0 +1,17 @@
+{
+  "[typescript]": {
+    "editor.formatOnSave": false,
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1C2861",
+    "titleBar.activeBackground": "#283888",
+    "titleBar.activeForeground": "#FAFBFE"
+  }
+}
